@@ -1,0 +1,13 @@
+.banner-container2{
+    padding: 1em 0;
+    flex-direction: column;
+}
+.banner-big{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 60px;
+}
+
+.banner-container1{
+    display: flex;
+}

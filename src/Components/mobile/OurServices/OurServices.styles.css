@@ -1,0 +1,73 @@
+.other-services1{
+    width: 100%;
+    height: auto;
+    padding: 1rem 0;
+    margin-top: -50px;
+    margin-bottom: 40px;
+}
+
+.other-services1 .heading1{
+    /* width: 260px;
+    height: auto;
+    padding: 1rem 0;
+    margin: 0 auto;
+    text-align: center; */
+    width: auto;
+    flex-direction: column;
+    /* line-height: 10px; */
+    display: flex;
+    align-items: center;
+    height: auto;
+    justify-content: center;
+    padding: 2.5rem 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.other-services1 .services-holder1{
+    text-align: center;
+    height: auto;
+    padding: 1rem 0;
+}
+
+.heading1 h1{
+    width: auto;
+    text-align: center;
+    /* line-height: 0.2; */
+    letter-spacing: 2;
+    letter-spacing: 8.5;
+    display: flex;
+    justify-content: space-around;
+}
+.heading1{
+    font-family: comfortaa;
+    font-size: 10px;
+    /* line-height: 1; */
+}
+
+.services-holder1 div#select-age {
+    width: 220px;
+    height:28px;
+    line-height: 28px;
+    font-family: comfortaa;
+    text-align: initial;
+    /* color: black; */
+    font-size: 19px;
+}
+
+
+.services-holder1 svg.MuiSvgIcon-root.MuiSelect-icon {
+    margin-right: 8px;
+}
+
+.services-holder1 button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.makeStyles-button-131 {
+    width: 125px;
+    font-size: 12px;
+    font-family: comfortaa;
+    letter-spacing: 0.8px;
+    height: 40px;
+    margin: 8px;
+    border-color: black;
+    border-radius: 25px;
+    margin-bottom: -53px;
+}

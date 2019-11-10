@@ -1,0 +1,62 @@
+.App{
+  font-family: 'Comfortaa';
+  width: 90%;
+  margin: 0 auto;
+  height: auto;
+}
+p{
+  margin: 0px;
+}
+
+
+.back-2{
+  width: 680px;
+  height: 490px;
+  position: absolute;
+  background: url('./assets/back-2.png') no-repeat right;
+  background-size: contain; 
+  z-index: -1;
+  top: 175px;
+  margin-top: 30px;
+  right: 0;
+}
+
+.title {
+  display: flex;
+  text-align: center;
+  justify-content: center;
+  margin-top: 60px;
+  line-height: 1.40;
+  inline-size: auto;
+  
+}
+
+.mobile-at-social{
+  display: flex;
+  justify-content: center;
+  margin-top: -70px;
+}
+
+.video{
+  display: flex;
+  justify-content: center;
+  margin: 100px auto;
+}
+
+.video-banner {
+  /* padding: 4em 0; */
+    display: flex;
+    justify-content: center;
+  
+  padding: 100px 0px;
+}
+.video-banner .banner-container{
+  cursor: pointer;
+}
+.Mobile-Banner .banner-container{
+  padding: 1em 0;
+  width: auto;
+  height: auto;
+  display: flex;
+  justify-content: center;
+}

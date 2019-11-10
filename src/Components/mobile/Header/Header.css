@@ -1,0 +1,114 @@
+.mobile-logo{
+    width: 100%;
+    height: auto;
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.mobile-header-container{
+    width: 100%;
+    height: auto;
+}
+
+.for-back-left{
+    width: 138px;
+    height: 166px;
+    object-fit: contain;
+    background:url('../../../assets/CHEF-NEW2.png');
+    position: absolute;
+    top: 26px;
+    left: -9px;
+}
+
+.for-back-right{
+    width: 80%;
+    margin-top: -162px;
+    /* margin-right: -200px; */
+    margin-left: 90px;
+    height: 366px;
+    object-fit: contain;
+    background: url('../../../assets/header-2.PNG') no-repeat;
+    position: static;
+    top: 21rem;
+    right: 0;
+    background-size: 100% 100%;
+    background-position: inherit;
+    
+}
+.header-form-container{
+    width: 80%;
+    height: auto;
+    margin: 0 auto;
+    align-items: center;
+    display: flex;
+    margin-top: 30px;
+    border: 1px solid #979797;
+    border-radius: 25px;
+    /* display: flex; */
+    flex-direction: column;
+}
+
+.header-form-container p{
+    width: 100%;
+    height: 1px;
+    background: #979797;
+}
+
+.header-button-holder{
+    width: 55%;
+    height: auto;
+    padding: 10px 0px;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+}
+.MuiFab-extended.MuiFab-sizeSmall{
+    width: 200px;
+}
+.header-button-holder .button1{
+    width: 250px;
+}
+
+.header-form-container .header-input{
+    width: 90%;
+    height: 40px;
+    font-weight: 9;
+    border: none;
+    outline: none;
+    background: transparent;
+    line-height: 40px;
+    font-size: 16px;
+    text-align: center;
+    padding: 12px 10px;
+}
+
+.header-btn{
+    width: 100%;
+
+    text-align: center;
+}
+
+.Mobile-Modal{
+    background: white;
+    display: flex;
+    box-shadow: #979797;
+}
+
+.modal-text1{
+    display: flex;
+    flex-direction: column;
+    font-family: comfortaa;
+}
+
+.cross3{
+    background-color: transparent;
+    box-shadow: none;
+    border: none;
+    cursor: pointer;
+}
+.cross4{
+    display: flex;
+    justify-content: flex-end;
+    background-color: transparent;
+}

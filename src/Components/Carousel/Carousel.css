@@ -1,0 +1,29 @@
+.carousel-block{
+    width: 100%;
+    height: auto;
+    display: flex;
+}
+
+.carousel-block .carousel-wrapper{
+    width: 89%;
+}
+
+.carousel-block .carousel-previous{
+    width: 5%;
+    height: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.carousel-block .carousel-previous img{
+    width: 30px;
+    height: 30px;
+    align-self: center;
+}
+
+.carousel-block .carousel-wrapper .slider-image{
+    width: 100%;
+    height: 100%;
+}

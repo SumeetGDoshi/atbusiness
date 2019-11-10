@@ -1,0 +1,180 @@
+.contactus-block{
+    width: 80%;
+    height: auto;
+    display: flex;
+    padding: 6rem 0;
+    justify-content: space-around;
+    margin: 0 auto;
+}
+
+.m-contactus-block{
+    width: 80%;
+    height: auto;
+    display: flex;
+    padding: 6rem 0;
+    flex-direction: column;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+
+
+.contactus-block .contactus-left{
+    width: 300px;
+    height: 368px;
+    margin-top: 60px;
+    background: url('../../assets/contact-left.png') no-repeat round;
+    
+
+}
+
+
+.m-contactus-block .m-contactus-left{
+    width: 80%;
+    height: 370px;
+    background: url('../../assets/contact-left.png') no-repeat round;
+    background-size: 100% 100%;
+    margin: 0 auto;
+    
+
+}
+
+.contactus-block .contactus-right{
+    width: 59%;
+    height: auto;
+    line-height: 0.45;
+}
+
+.contactus-block .contactus-right form{
+    margin-top: 80px;
+}
+
+
+.m-contactus-block .m-contactus-right{
+    width: 100%;
+    font-family: comfortaa;
+    height: auto;
+    line-height: 0.45;
+    justify-content: center;
+    flex-direction: column;
+    display: flex;
+}
+
+.m-contactus-block .m-contactus-right form{
+    width: 100%;
+}
+
+.m-contactus-block .m-contactus-right .bottom-block{
+    width: 100%;
+    height: auto;
+}
+
+.m-contactus-block .m-contactus-right h2{
+    font-size: 1.5em;
+    margin: 50px 0px;
+}
+
+.contactus-block .contactus-right h1{
+    font-size: 40px;
+    line-height: 1;
+}
+
+.contactus-block .contactus-right .contactus-input .MuiInputBase-root{
+    font-size: 1.5rem;
+}
+
+.contactus-block .contactus-right .contactus-input{
+    margin: 1.5rem 8px;
+}
+
+.contactus-block .contactus-right .bottom-block{
+    margin: 1rem 0;
+}
+
+.contactus-block .contactus-right .contactus-submit{
+    
+    font-size: 18px;
+    font-weight: 300;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: 0.54px;
+    color: #ffffff;
+    width: 149px;
+    height: 40px;
+    border-radius: 38px;
+    background-color: #149bd0;
+}
+
+
+.afterForm{
+    
+    width: 464px;
+    height: 121px;
+    border-radius: 5px;
+    border: solid 0.5px #979797;
+    background-color: #fbfbfb;
+  
+}
+.size{
+    width: 560px;
+    height: 380px;
+  }
+
+.bottom-block .buttonn{
+    background-color: #149bd0;
+    margin-top: 20px;
+}
+
+.cross{
+    display: flex;
+    justify-content: flex-end;
+    background-color: transparent;
+}
+.cross .cross1{
+    background-color: transparent;
+    box-shadow: none;
+}
+.modal-text #transition-modal-title{
+    font-family: Comfortaa;
+    margin-bottom: inherit;
+    display: flex;
+    text-align: initial;
+    margin-right: 150px;
+    font-weight: 900;
+    line-height: 1.34;
+}
+p#transition-modal-title-2{
+    font-family: Comfortaa;
+    margin-bottom: inherit;
+    display: flex; 
+    text-align: initial;
+    line-height: 1.58;
+    font-size: larger;
+    margin-right: 150px;
+    font-weight: 597;
+ }
+ p#inner-text{
+    font-family: Comfortaa;
+    text-align: initial;
+    margin-top: 12px;
+    margin-right: 120px;
+    font-weight: 580;
+    line-height: 1.43;
+    margin-bottom: 18px;
+ }
+
+ form.makeStyles-container-110 {
+    margin-left: -8px;
+}
+
+input.MuiInputBase-input.MuiInput-input {
+    font-size: 17px;
+}
+
+.m-modal{
+    height: 380px;
+    width: 300px;
+    font-size: 12px;
+}

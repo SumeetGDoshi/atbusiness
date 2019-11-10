@@ -1,0 +1,77 @@
+.how-do-we-do-it{
+    width: 100%;
+    height: auto;
+    padding-bottom: 2rem;
+}
+
+.how-do-we-do-it h2{
+    text-align: center;
+    padding-bottom: 3rem;
+    
+}
+
+.how-do-we-do-it .block{
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 20px 0px;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.how-do-we-do-it .block .small-blocks{
+    width: 265px;
+    height: auto;
+}
+
+.how-do-we-do-it .block .small-blocks p{
+    padding: 1.5rem 0;
+    text-align: start;
+    width: 80%;
+    margin: 0 auto;
+    font-size: 17px;
+    line-height: 28px;
+    
+}
+.how-do-we-do-it .block .small-blocks .block-text1 p{
+    padding: 1.4rem 0;
+    text-align: start;
+    width: 80%;
+    margin: -8px auto;
+    font-size: 17px;
+    line-height: 28px;
+    
+}
+.how-do-we-do-it .block .small-blocks .block-text2 p{
+    padding: 1.5rem 0;
+    text-align: start;
+    width: 80%;
+    margin: -5px auto;
+    font-size: 17px;
+    line-height: 28px;
+    
+}
+.how-do-we-do-it .block .small-blocks .block-text4 p{
+    padding: 2rem 0;
+    text-align: start;
+    width: 80%;
+    margin: -15px auto;
+    font-size: 17px;
+    line-height: 28px;
+    
+}
+.how-do-we-do-it .block .small-blocks .block-img{
+    /* height: 176px;
+    width: 164px; */
+    justify-content: end;
+    margin-left: 42px;
+}
+.how-do-we-do-it .block .small-blocks .block-img1{
+    /* height: 176px;
+    width: 164px; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 60px;
+}

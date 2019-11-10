@@ -1,0 +1,108 @@
+.how-do-we-do-itM{
+    width: 100%;
+    flex-direction: column;
+    display: flex;
+    height: auto;
+    padding-bottom: 2rem;
+}
+
+.how-do-we-do-itM h1{
+    text-align: center;
+    padding-bottom: 3rem;
+    font-size: 22px;
+    font-family: comfortaa;
+    
+}
+
+.how-do-we-do-itM .blockM{
+    width: 100%;
+    height: auto;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    /* justify-content: end; */
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.how-do-we-do-itM .blockM .small-blocksM{
+    width: 305px;
+    display: flex;
+    margin-bottom: 80px;
+    flex-direction: row;
+    height: auto;
+    justify-content: center;
+}
+.how-do-we-do-itM .blockM .small-blocksM1{
+    width: 305px;
+    display: flex;
+    margin-bottom: 80px;
+    flex-direction: row;
+    height: auto;
+    justify-content: center;
+}
+.how-do-we-do-itM .blockM .small-blocksM p{
+      /* padding: 1rem 0; */
+      width: max-content;
+      /* padding-left: 20px; */
+      margin: auto auto;
+      font-weight: 900;
+      text-align: left;
+      font-family: comfortaa;
+      font-size: 14px;
+      margin-left: 38px;
+      line-height: 25px;
+}
+.how-do-we-do-itM .blockM .small-blocksM1 p{
+      /* padding: 1rem 0; */
+      width: max-content;
+      /* padding-left: 20px; */
+      margin: auto auto;
+      font-weight: 900;
+      text-align: left;
+      font-family: comfortaa;
+      font-size: 14px;
+      margin-left: 38px;
+      line-height: 25px;
+}
+.how-do-we-do-itM .blockM .small-blocksM .block-imgM{
+    /* height: 100px;
+    width: 90px; */
+    justify-content: end;
+    /* margin-left: 42px; */
+    margin-right: 50px;
+}
+.how-do-we-do-itM .blockM .small-blocksM1 .block-imgM1{
+    /* height: 100px;
+    width: 90px; */
+    justify-content: end;
+    /* margin-left: 42px; */
+    margin-right: 50px;
+}
+.how-do-we-do-itM .blockM .small-blocksM4 .block-imgM4{
+    /* height: 100px;
+    width: 90px; */
+    justify-content: end;
+    margin-left: 42px;
+}
+
+.how-do-we-do-itM .blockM .small-blocksM4{
+    width: 340px;
+    display: flex;
+    margin-bottom: 80px;
+    flex-direction: row;
+    height: auto;
+    justify-content: end;
+}
+
+.how-do-we-do-itM .blockM .small-blocksM4 p{
+    /* width: max-content; */
+    padding-left: 20px;
+    margin: auto auto;
+    font-weight: 900;
+    margin-left: 32px;
+    text-align: left;
+    font-family: comfortaa;
+    font-size: 14px;
+    line-height: 25px;
+}

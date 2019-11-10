@@ -1,0 +1,25 @@
+.other-services{
+    width: 100%;
+    height: auto;
+    padding: 1rem 0;
+}
+
+.other-services .heading{
+    width: 70%;
+    height: auto;
+    padding: 1rem 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.other-services .services-holder{
+    text-align: center;
+    height: auto;
+    padding: 1rem 0;
+}
+.services-holder svg.MuiSvgIcon-root.MuiSelect-icon {
+    margin-right: 22px;
+}
+div#select-age {
+    width: 325px;
+}
