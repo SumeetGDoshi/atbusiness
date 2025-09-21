@@ -13,7 +13,7 @@ function HowDoWeDoIt(){
             <h2>so how would this work?</h2>
             <div className="block">
                 <div className="small-blocks">
-                    <img className="block-img1" src={block1} height={189} width={124} />
+                    <img className="block-img1" src={block1} height={189 widt={124} />
                     <div className="block-text1"> 
                     <p>Tell us all that your business currently needs</p>
                     </div>
@@ -45,4 +45,5 @@ function HowDoWeDoIt(){
 
 
 export default HowDoWeDoIt;
+
 
