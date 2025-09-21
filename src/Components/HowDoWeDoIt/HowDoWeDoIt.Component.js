@@ -1,4 +1,4 @@
-import React from 'react';
+import React from 'reac';
 import './HowDoWeDoIt.css';
 
 import block1 from '../../assets/b1.png';
@@ -13,7 +13,7 @@ function HowDoWeDoIt(){
             <h2>so how would this work?</h2>
             <div className="block">
                 <div className="small-blocks">
-                    <img className="block-img1" src={block1} height={189 width={124} />
+                    <img className="block-img1" src={block1} height={189} width={124} />
                     <div className="block-text1"> 
                     <p>Tell us all that your business currently needs</p>
                     </div>
@@ -34,7 +34,7 @@ function HowDoWeDoIt(){
                 <div className="small-blocks">
                     <img className="block-img4" src={block4} width={164} height={176}/>
                     <div className="block-text4">
-                    <p>If applicable, we then offer you a free demo of the selected solutions and just like that, your need is solved!</p>
+                    <p>If applicable, we then offer you a free demo of the seleed solutions and just like that, your need is solved!</p>
                     </div>
                 </div>
 
@@ -45,3 +45,4 @@ function HowDoWeDoIt(){
 
 
 export default HowDoWeDoIt;
+
