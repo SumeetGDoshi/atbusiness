@@ -136,8 +136,10 @@ class App extends Component{
 
     
     
-    return isMobile() ? mobile : desktop;
+    return isMobile() ? mobile : desktop: desktop;
   }
 }
 
 export default App;
+
+
